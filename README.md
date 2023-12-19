@@ -4,8 +4,9 @@
 ## Sumário
 
 
-| Aula   | Assunto                     | Arquivo | Data  |
-| :----- | :-------------------------- | :-------| :---------- |
-|`AULA 0`| `iNSTALAÇÃO DE FERRAMENTAS` | **[Exercício 1](https://github.com/DioACCT/learn_cypress/tree/aula_0)** |14/12/2023 |
+| Aula   | Assunto                       | Arquivo           | Data        |
+| :----- | :--------------------------   | :-------          | :---------- |
+|`AULA 0`| `INSTALAÇÃO DE FERRAMENTAS`   | **[Exercício 1](https://github.com/DioACCT/learn_cypress/tree/aula_0)** |14/12/2023 |
+|`AULA 1`| `COMANDOS GIT E PACKAGE.JSON` | **[Exercício 2](https://github.com/DioACCT/learn_cypress/tree/aula_1)** |18/12/2023 |
 
 
