@@ -6,7 +6,7 @@
 ## Início
 Sejam  todos muito bem vindos!
 
-Esse repositório tem como objetivo principal discipar conhecimento didático sobre automação Cypress e repositório Git.
+Esse repositório tem como objetivo principal dissipar conhecimento didático sobre automação Cypress e repositório Git.
 
 As aulas assim passadas são fracionadas e no final de seu material apresentam exercícios práticos que auxiliarão na fixação do conteúdo.
 
